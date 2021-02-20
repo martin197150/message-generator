@@ -1,2 +1,2 @@
 # Message-Generator
-Codecademy porfolio project-Message Generator
+Codecademy portfolio project-Message Generator
